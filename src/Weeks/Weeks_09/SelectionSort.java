@@ -4,11 +4,11 @@ import java.util.Arrays;
 
 public class SelectionSort {
     public static void main(String[] args) {
-        /** 7 9 3 5 12 6 2 5
+        /* 7 9 3 5 12 6 2 5
          * 2
          * Find Lowest
          *
-        **/
+        */
         int []arr =new int [10];
         BinarySearch.fillArrWithRandomValues(arr,0,20);
         System.out.println(Arrays.toString(arr));
