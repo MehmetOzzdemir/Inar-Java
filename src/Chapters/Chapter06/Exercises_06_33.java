@@ -18,25 +18,33 @@ public class Exercises_06_33 {
         long totalDays =totalHours/24;
 
         long currentYears=(int)(totalDays/365)+1970;
-        long currentDays =(totalDays-numberOfLeapYearsSince1970(currentYears))%365;
+        long currentDays =(totalDays-numberOfLeapYearsSince1970(currentYears))%365-2;
+        long month =currentDays/30+1;
+        currentDays%=30;
 
-
-
-        System.out.println("Current date and time: " + currentYears+ " "+currentDays
+        System.out.println("Current date and time: "+currentDays+ " "+month((int)(month)) +" "+ currentYears
                 +" " + currentHours + ":"
                 + currentMinutes + ":" + currentSecond );
+    }
 
-    } public static String dayNameOfWeek(int dayOfWeek) {
-        switch (dayOfWeek) {
-            case 2: return "Monday";
-            case 3: return "Tuesday";
-            case 4: return "Wednesday";
-            case 5: return "Thursday";
-            case 6: return "Friday";
-            case 7: return "Saturday";
-            case 1: return "Sunday";
-            default: return null;
+    public static String month(int num) {
+
+        switch (num){
+            case 1:  return "January";
+            case 2:  return "February";
+            case 3:  return "March";
+            case 4:  return "April";
+            case 5:  return "May";
+            case 6:  return "June";
+            case 7:  return "July";
+            case 8:  return "August";
+            case 9:  return "September";
+            case 10:  return "October";
+            case 11:  return "November";
+            case 12 :return "December";
+              default:return null;
         }
+
     }
     public static int numberOfLeapYearsSince1970(long year) {
         int count = 0;
