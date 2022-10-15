@@ -37,7 +37,7 @@ public class RandomMaxSecondNumber {
        return max;
     }
 
-    private static void fillTheArrWithRandomValues(int[] arr) {
+    public static void fillTheArrWithRandomValues(int[] arr) {
         for(int i=0;i<arr.length;i++){
             int random =(int)(Math.random()*100);
             arr[i]=random;

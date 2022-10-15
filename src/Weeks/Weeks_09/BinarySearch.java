@@ -64,4 +64,5 @@ public class BinarySearch {
             arr[i]=num;
         }
     }
+    public void nonStaticMethod(){}
 }
