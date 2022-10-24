@@ -25,7 +25,6 @@ public class Chapter08_Exercises_20 {
 
 
             processEntryToTheBoard(usersEntry,isRedTurn);
-
             display();
             isRedTurn = !isRedTurn;
 
