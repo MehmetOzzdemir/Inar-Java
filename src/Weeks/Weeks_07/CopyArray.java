@@ -6,7 +6,7 @@ public class CopyArray {
         System.out.println("---------------------");
         variablesCopy();
         System.out.println("---------------------");
-        
+
 
     }
 
