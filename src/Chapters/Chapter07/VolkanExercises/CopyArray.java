@@ -1,4 +1,4 @@
-package Weeks.Weeks_07;
+package Chapters.Chapter07.VolkanExercises;
 
 public class CopyArray {
     public static void main(String[] args) {
