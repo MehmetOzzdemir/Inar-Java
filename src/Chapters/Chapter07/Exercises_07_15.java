@@ -11,7 +11,7 @@ public class Exercises_07_15 {
          */
         int []arr =new int[10];
         for (int i = 0; i <arr.length ; i++) {
-            arr[i]=(int)((Math.random()+1)*10);
+            arr[i]=(int)((Math.random()*10)+1);
             System.out.print(arr[i]+  " ");
         }
         System.out.println();
@@ -20,6 +20,7 @@ public class Exercises_07_15 {
             if (e > 0)
                 System.out.print(" " + e);
         }
+
         System.out.println();
     }
     public static int[] eliminateDuplicates(int[] list){
