@@ -2,7 +2,7 @@ package Weeks.Weeks_12;
 
 public class Circle {
 
-    //Date Field
+    //Data Field
     String color ;
     double radius;
     double area;
