@@ -40,7 +40,7 @@ public class Exercises_07_17 {
     public static void selectionSort(double [] arr,String[]arr1){
         for (int i = 0; i <arr.length ; i++) {
             for (int j = i+1; j < arr.length ; j++) {
-                if(arr[i]<arr[j]){
+                if(arr[i]>arr[j]){
                     swapScore(arr,i,j);
                     swapName(arr1,i,j);
                 }
