@@ -80,12 +80,12 @@ public class FootballClub {
     private void removePlayer(Player p) {
         for (int i = 0; i <this.team.length ; i++) {
             Player myPlayer = team [i];
-            if(myPlayer.getFee().equals(p.getName())){
-                
+          //  if(myPlayer.getFee().equals(p.getName())){
+
             }
         }
 
     }
 
 
-}
+//}
