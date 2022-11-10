@@ -1,6 +1,6 @@
 package Chapters.Chapters09;
 
-public class Exercises_09_01 {
+public class Triangle {
 
     private double width;
     private double height;
@@ -8,11 +8,11 @@ public class Exercises_09_01 {
 
     private double area;
 
-    public Exercises_09_01() {
+    public Triangle() {
         this(1, 1);
     }
 
-    public Exercises_09_01(double width, double height) {
+    public Triangle(double width, double height) {
         this.width = width;
         this.height = height;
         /*perimeter=this.getPerimeter();
