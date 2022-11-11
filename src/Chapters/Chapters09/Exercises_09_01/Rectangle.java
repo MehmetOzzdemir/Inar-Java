@@ -1,6 +1,6 @@
-package Chapters.Chapters09;
+package Chapters.Chapters09.Exercises_09_01;
 
-public class Triangle {
+public class Rectangle {
 
     private double width;
     private double height;
@@ -8,11 +8,11 @@ public class Triangle {
 
     private double area;
 
-    public Triangle() {
+    public Rectangle() {
         this(1, 1);
     }
 
-    public Triangle(double width, double height) {
+    public Rectangle(double width, double height) {
         this.width = width;
         this.height = height;
         /*perimeter=this.getPerimeter();
