@@ -1,4 +1,4 @@
-package Chapters.Chapters09;
+package Chapters.Chapters09.Exercises_09_04;
 
 import java.util.Random;
 
