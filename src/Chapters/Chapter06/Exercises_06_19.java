@@ -12,7 +12,7 @@ public class Exercises_06_19 {
         double side3=input.nextDouble();
 
         if(isValid(side1,side2,side3)){
-            System.out.println("The area of The Triangle : "+area(side1,side2,side3));
+            System.out.println("The area of The Rectangle : "+area(side1,side2,side3));
         }else{
             System.out.println("Invalid Value");
         }
