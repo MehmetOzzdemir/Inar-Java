@@ -27,7 +27,7 @@ public class Stack {
             throw new RuntimeException("Stack Have Empty Area");
         }
         numberOfElement--;
-        return elements[numberOfElement];
+         return elements[numberOfElement];
     }
     public int peek(){
         if(isEmpty()){
