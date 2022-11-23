@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5283e1ac-3762-44f7-88d2-72e7edc1c857" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inar-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inar-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="64178bbc-2185-4e34-958d-73abe5ce5257" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_01.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_02.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_03.class" afterDir="false" />
@@ -185,21 +180,37 @@
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Lion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Lion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/TestPolymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/TestPolymorphism.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Fruit/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Fruit/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weeks/Weeks_10/TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Weeks/Weeks_10/TwoDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Chapters/Chapter06/Exercises_06_02.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HvMEU77ExlF9Fez0t2Sov3qbRO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -213,13 +224,33 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoDimensionalArray">
-    <configuration name="GeometricObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.GeometricObject.GeometricObjectTest" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Chapters.Chapter11.VolkanHocaExercises" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Chapters.Chapter11.VolkanHocaExercises.p1" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle Tasks" flag="true" />
+      <visibility group="Maven Goals" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="com.intellij.ide.actions.runAnything.RunAnythingRunConfigurationProvider" flag="true" />
+      <visibility group="com.intellij.ide.actions.runAnything.activity.RunAnythingRecentProjectProvider" flag="true" />
+      <visibility group="org.jetbrains.idea.maven.execution.MavenRunAnythingProvider" flag="true" />
+      <visibility group="org.jetbrains.plugins.gradle.execution.GradleRunAnythingProvider" flag="true" />
+    </myKeys>
+  </component>
+  <component name="RunManager" selected="Application.ArrayLisstMethod">
+    <configuration name="ArrayLisstMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.ArrayLisstMethod" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter11.VolkanHocaExercises.GeometricObject.*" />
+          <option name="PATTERN" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +258,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Weeks.Weeks_10.TwoDimensionalArray" />
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.ArrayListDemo" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Weeks.Weeks_10.*" />
+          <option name="PATTERN" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercises_10_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_15.Exercises_10_15" />
+      <module name="Inar-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.TestArrayList" />
+      <module name="Inar-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnrepeatlyElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.UnrepeatlyElements" />
+      <module name="Inar-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,15 +312,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoDimensionalArray" />
-        <item itemvalue="Application.GeometricObjectTest" />
+        <item itemvalue="Application.ArrayLisstMethod" />
+        <item itemvalue="Application.Exercises_10_15" />
+        <item itemvalue="Application.UnrepeatlyElements" />
+        <item itemvalue="Application.ArrayListDemo" />
+        <item itemvalue="Application.TestArrayList" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5283e1ac-3762-44f7-88d2-72e7edc1c857" name="Changes" comment="" />
+      <changelist id="64178bbc-2185-4e34-958d-73abe5ce5257" name="Changes" comment="" />
       <created>1669160993462</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -268,5 +341,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Inar_Java$Exercises_06_22.ic" NAME="Exercises_06_22 Coverage Results" MODIFIED="1665431768226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Chapters.Chapter06.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -8,13 +8,21 @@ public class Rectangle extends GeometricObject {
 
 
     public Rectangle(){
-        this(5,10);
+        this("Blue",true,5,10);
     }
-    public Rectangle(double weight,double height){
+    public Rectangle(String color,boolean full,double weight,double height){
+        super(color,full);
         this.weight=weight;
         this.height=height;
     }
 
+    @Override
+    public String toString() {
+        return "Rectangle{" +
+                "height=" + height +
+                ", weight=" + weight +
+                '}';
+    }
 
     public double getPerimeter(){
         return 2*(weight*height);
@@ -28,10 +36,6 @@ public class Rectangle extends GeometricObject {
 
     public double getHeight() {
         return height;
-    }
-   @Override
-    public String toString(){
-        return super.toString()+"\nHeight"+getHeight()+"\nWeight : "+getWeight();
     }
 
     public void setHeight(double height) {
