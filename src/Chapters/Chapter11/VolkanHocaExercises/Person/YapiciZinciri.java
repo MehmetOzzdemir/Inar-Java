@@ -10,7 +10,7 @@ public class YapiciZinciri {
 class Academic extends Employee {
     public Academic() {
 
-        System.out.println("Academic Worked");
+        System.out.println("Academic Worked in University");
     }
 
 }
