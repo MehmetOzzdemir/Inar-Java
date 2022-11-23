@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="64178bbc-2185-4e34-958d-73abe5ce5257" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_01.class" afterDir="false" />
@@ -185,6 +186,10 @@
       <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Rectangle.java" afterDir="false" />
+=======
+    <list default="true" id="5283e1ac-3762-44f7-88d2-72e7edc1c857" name="Changes" comment="Done">
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.java" afterDir="false" />
+>>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,14 +220,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/mehmetozdemir/Documents/workspace/Inar-Java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
+<<<<<<< HEAD
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -247,6 +254,25 @@
   <component name="RunManager" selected="Application.ArrayLisstMethod">
     <configuration name="ArrayLisstMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.ArrayLisstMethod" />
+=======
+}]]></component>
+  <component name="RunManager" selected="Application.Exercises_1_1">
+    <configuration name="Exercises_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter01.Exercises_1_1" />
+      <module name="Inar-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapters.Chapter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeometricObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.GeometricObject.GeometricObjectTest" />
+>>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
@@ -312,11 +338,17 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.ArrayLisstMethod" />
         <item itemvalue="Application.Exercises_10_15" />
         <item itemvalue="Application.UnrepeatlyElements" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.TestArrayList" />
+=======
+        <item itemvalue="Application.Exercises_1_1" />
+        <item itemvalue="Application.TwoDimensionalArray" />
+        <item itemvalue="Application.GeometricObjectTest" />
+>>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
       </list>
     </recent_temporary>
   </component>
@@ -329,6 +361,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669160993462</updated>
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <created>1669197707601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669197707601</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,12 +376,25 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
@@ -350,5 +403,10 @@
     <SUITE FILE_PATH="coverage/Inar_Java$Exercises_06_22.ic" NAME="Exercises_06_22 Coverage Results" MODIFIED="1665431768226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Chapters.Chapter06.*</FILTER>
     </SUITE>
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
+>>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
   </component>
 </project>
