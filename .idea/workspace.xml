@@ -1,200 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <list default="true" id="64178bbc-2185-4e34-958d-73abe5ce5257" name="Changes" comment="">
+    <list default="true" id="ab05b468-7bff-4caf-8173-85b82e99eafa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_36.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_37.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_38.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_38.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_39.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_39.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/Exercises_07_32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/CopyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/CopyArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/CountLettersArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/CountLettersArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/EqualToArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/EqualToArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/LinearSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter07/VolkanExercises/StringReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_01/Exercises_09_01_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_01/Exercises_09_01_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_01/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_01/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_02/Exercises_09_02_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_02/Exercises_09_02_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_02/Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_02/Stock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_03/Exercises_09_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_03/Exercises_09_03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_04/Exercises_09_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_04/Exercises_09_04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_05/Exercises_09_05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_05/Exercises_09_05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_06/Exercises_09_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_06/Exercises_09_06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_06/StopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_06/StopWatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_07/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_07/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_07/Exercises_09_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_07/Exercises_09_07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_08/Exercises_09_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_08/Exercises_09_08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_08/Fan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_08/Fan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_09/Exercises_09_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_09/Exercises_09_09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_09/RegularPolygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_09/RegularPolygon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_10/Exercises_09_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_10/Exercises_09_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_10/QuadraticEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_10/QuadraticEquation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_11/Exercises_09_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_11/Exercises_09_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_11/LinearEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_11/LinearEquation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_12/Exercises_09_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_12/Exercises_09_12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_13/Exercises_09_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_13/Exercises_09_13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_13/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_13/Location.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_13/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/Exercises_09_13/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/CircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/CircleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/NesneArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/NesneArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/RandomClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/RandomClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/StaticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/StudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/SumArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/SumArea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/TV.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/TVTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter09/VolkanHocaExercises/TVTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_01/Exercises_10_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_01/Exercises_10_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_01/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_01/Time.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_02/BMI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_02/BMI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_02/Exercises_10_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_02/Exercises_10_02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_03/Exercises_10_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_03/Exercises_10_03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_03/MyInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_03/MyInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_04/Exercises_10_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_04/Exercises_10_04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_04/MyPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_04/MyPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inar-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inar-Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_05/Exercises_10_05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_05/Exercises_10_05.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_05/StackOfIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/Exercises_10_05/StackOfIntegers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/SarmallayiciSiniflar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/SarmallayiciSiniflar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/StringClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/StringClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/TestCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/TestCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/TestStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter10/VolkanHocaExercises/TestStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/Exercises_11_01/Exercises_11_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/Exercises_11_01/Exercises_11_01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Fruit/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Fruit/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/ArrayLisstMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/ArrayListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/DynamicBinding.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Fruit/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Fruit/Fruit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/GeometricObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/GeometricObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/GeometricObjectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/GeometricObjectTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/GraduateStudent.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Person/Academic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Person/Academic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Person/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Person/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Person/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Person/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_06/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_06/Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_07/AnalyzeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_07/AnalyzeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_07/ArrBegin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_07/ArrBegin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_07/DeckOfCards.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_07/DeckOfCards.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_07/ReturningArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_07/ReturningArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_07/TestPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_07/TestPass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_09/ArraySummary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_09/ArraySummary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_09/ArraySummary2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_09/ArraySummary2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_09/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_09/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_09/RandomMaxSecondNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_09/RandomMaxSecondNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_09/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_09/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_10/Exercise_07_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_10/Exercise_07_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_10/MatrixSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_10/MatrixSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_10/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_10/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_10/TwoDimensionalArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_10/TwoDimensionalArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_10/fill2DArrWithRandomValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_10/fill2DArrWithRandomValues.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_11/Chapter08_Exercises_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_11/Chapter08_Exercises_20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/CVSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/CVSplit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/CircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/CircleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/FootballClub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/FootballClub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_12/StudentTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_13/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_13/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_13/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_13/Home.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_13/HomeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_13/HomeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_13/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_13/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises/Brand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises/Brand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises/Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises/Cars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises2/SchoolStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises2/SchoolStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises2/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Exercises2/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Lion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Lion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/TestPolymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Weeks/Weeks_14/TestPolymorphism.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter01/Exercises_1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/GeometricObject/Rectangle.java" afterDir="false" />
-=======
-    <list default="true" id="5283e1ac-3762-44f7-88d2-72e7edc1c857" name="Changes" comment="Done">
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.java" afterDir="false" />
->>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
-=======
-    <list default="true" id="5283e1ac-3762-44f7-88d2-72e7edc1c857" name="Changes" comment="Done">
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.java" afterDir="false" />
->>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
+      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Person1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/TestArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter11/VolkanHocaExercises/UnrepeatlyElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter09/Exercises_09_07/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter09/Exercises_09_07/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_05/Exercises_10_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_05/Exercises_10_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_05/StackOfIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_05/StackOfIntegers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,13 +36,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Chapters/Chapter06/Exercises_06_02.java" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2HvMEU77ExlF9Fez0t2Sov3qbRO" />
+  <component name="ProjectId" id="2Hxwa48bgeRwulKQU9gpbMVuQPF" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -228,51 +50,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/mehmetozdemir/Documents/workspace/Inar-Java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-<<<<<<< HEAD
-<<<<<<< HEAD
-}</component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Chapters.Chapter11.VolkanHocaExercises" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Chapters.Chapter11.VolkanHocaExercises.p1" />
-    </key>
-  </component>
-  <component name="RunAnythingCache">
-    <myKeys>
-      <visibility group="Gradle Tasks" flag="true" />
-      <visibility group="Maven Goals" flag="true" />
-      <visibility group="Recent projects" flag="true" />
-      <visibility group="Run configurations" flag="true" />
-      <visibility group="com.intellij.ide.actions.runAnything.RunAnythingRunConfigurationProvider" flag="true" />
-      <visibility group="com.intellij.ide.actions.runAnything.activity.RunAnythingRecentProjectProvider" flag="true" />
-      <visibility group="org.jetbrains.idea.maven.execution.MavenRunAnythingProvider" flag="true" />
-      <visibility group="org.jetbrains.plugins.gradle.execution.GradleRunAnythingProvider" flag="true" />
-    </myKeys>
-  </component>
-  <component name="RunManager" selected="Application.ArrayLisstMethod">
-    <configuration name="ArrayLisstMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.ArrayLisstMethod" />
-=======
-=======
->>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
 }]]></component>
-  <component name="RunManager" selected="Application.Exercises_1_1">
-    <configuration name="Exercises_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter01.Exercises_1_1" />
-<<<<<<< HEAD
-=======
+  <component name="RunManager" selected="Application.Exercises_10_07">
+    <configuration name="Exercises_10_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_05.Exercises_10_05" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter01.*" />
+          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,13 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeometricObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.GeometricObject.GeometricObjectTest" />
->>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
+    <configuration name="Exercises_10_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_06.Exercises_10_06" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter01.*" />
+          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,26 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeometricObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.GeometricObject.GeometricObjectTest" />
->>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
+    <configuration name="Exercises_10_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_07.Exercises_10_07" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.ArrayListDemo" />
-      <module name="Inar-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.*" />
+          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,25 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.TestArrayList" />
+    <configuration name="Exercises_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter01.Exercises_1_1" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnrepeatlyElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.UnrepeatlyElements" />
-      <module name="Inar-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.*" />
+          <option name="PATTERN" value="Chapters.Chapter01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,40 +121,23 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <item itemvalue="Application.ArrayLisstMethod" />
+        <item itemvalue="Application.Exercises_10_07" />
+        <item itemvalue="Application.Exercises_10_06" />
+        <item itemvalue="Application.Exercises_10_05" />
         <item itemvalue="Application.Exercises_10_15" />
-        <item itemvalue="Application.UnrepeatlyElements" />
-        <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.TestArrayList" />
-=======
-=======
->>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
         <item itemvalue="Application.Exercises_1_1" />
-        <item itemvalue="Application.TwoDimensionalArray" />
-        <item itemvalue="Application.GeometricObjectTest" />
->>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64178bbc-2185-4e34-958d-73abe5ce5257" name="Changes" comment="" />
-      <created>1669160993462</created>
+      <changelist id="ab05b468-7bff-4caf-8173-85b82e99eafa" name="Changes" comment="" />
+      <created>1669237215675</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669160993462</updated>
+      <updated>1669237215675</updated>
     </task>
-    <task id="LOCAL-00001" summary="Done">
-      <created>1669197707601</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1669197707601</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,43 +145,10 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-<<<<<<< HEAD
-<<<<<<< HEAD
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Inar_Java$Exercises_06_22.ic" NAME="Exercises_06_22 Coverage Results" MODIFIED="1665431768226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Chapters.Chapter06.*</FILTER>
-    </SUITE>
-=======
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done" />
->>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
-=======
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done" />
->>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
   </component>
 </project>
