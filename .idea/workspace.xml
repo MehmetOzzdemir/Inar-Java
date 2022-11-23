@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="64178bbc-2185-4e34-958d-73abe5ce5257" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inar-Java/Chapters/Chapter06/Exercises_06_01.class" afterDir="false" />
@@ -190,6 +191,10 @@
     <list default="true" id="5283e1ac-3762-44f7-88d2-72e7edc1c857" name="Changes" comment="Done">
       <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.java" afterDir="false" />
 >>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
+=======
+    <list default="true" id="5283e1ac-3762-44f7-88d2-72e7edc1c857" name="Changes" comment="Done">
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/VolkanHocaExercises/Person/YapiciZinciri.java" afterDir="false" />
+>>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,6 +235,7 @@
     "project.structure.side.proportion": "0.2"
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -255,10 +261,28 @@
     <configuration name="ArrayLisstMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.ArrayList.ArrayLisstMethod" />
 =======
+=======
+>>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
 }]]></component>
   <component name="RunManager" selected="Application.Exercises_1_1">
     <configuration name="Exercises_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapters.Chapter01.Exercises_1_1" />
+<<<<<<< HEAD
+=======
+      <module name="Inar-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapters.Chapter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeometricObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.VolkanHocaExercises.GeometricObject.GeometricObjectTest" />
+>>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
@@ -339,12 +363,15 @@
     <recent_temporary>
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <item itemvalue="Application.ArrayLisstMethod" />
         <item itemvalue="Application.Exercises_10_15" />
         <item itemvalue="Application.UnrepeatlyElements" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.TestArrayList" />
 =======
+=======
+>>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
         <item itemvalue="Application.Exercises_1_1" />
         <item itemvalue="Application.TwoDimensionalArray" />
         <item itemvalue="Application.GeometricObjectTest" />
@@ -395,6 +422,7 @@
     </option>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
@@ -403,6 +431,11 @@
     <SUITE FILE_PATH="coverage/Inar_Java$Exercises_06_22.ic" NAME="Exercises_06_22 Coverage Results" MODIFIED="1665431768226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Chapters.Chapter06.*</FILTER>
     </SUITE>
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
+>>>>>>> 30f809f82a3fc9bc1e8ddaa74da514920a1124cb
 =======
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done" />
