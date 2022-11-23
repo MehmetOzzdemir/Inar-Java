@@ -7,7 +7,7 @@ public class Apple extends Fruit {
 }
 class Fruit{
     public Fruit(){
-
+        System.out.println("hekkı");
     }
     public Fruit(String name){
 

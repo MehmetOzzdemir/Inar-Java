@@ -1,6 +1,5 @@
 package Weeks.Weeks_10;
 
-import javafx.collections.ObservableArray;
 
 public class TwoDimensionalArray {
     public static void main(String[] args) {
