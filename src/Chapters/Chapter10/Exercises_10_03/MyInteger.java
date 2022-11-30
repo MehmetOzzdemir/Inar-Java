@@ -67,7 +67,7 @@ public class MyInteger {
         return isOdd(num);
     }
     public static boolean isPrime(MyInteger num){
-        return isPrime(num);
+        return isPrime(num.getValue());
     }
 
     public boolean equals(int num) {

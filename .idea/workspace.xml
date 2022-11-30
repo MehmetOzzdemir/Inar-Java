@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab05b468-7bff-4caf-8173-85b82e99eafa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_04/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_04/MyPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_03/MyInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_03/MyInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +37,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercises_10_16">
-    <configuration name="Exercises_10_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_11.Exercises_10_11" />
+  <component name="RunManager" selected="Application.Exercises_10_20">
+    <configuration name="Exercises_10_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_03.Exercises_10_03" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_11.*" />
+          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises_10_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_12.Exercises_10_12" />
+    <configuration name="Exercises_10_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_18.Exercises_10_18" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_12.*" />
+          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises_10_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_13.Exercises_10_13" />
+    <configuration name="Exercises_10_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_19.Exercises_10_19" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_13.*" />
+          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises_10_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_14.Exercises_10_14" />
+    <configuration name="Exercises_10_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_20.Exercises_10_20" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_14.*" />
+          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises_10_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_16.Exercises_10_16" />
+    <configuration name="sdfas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.sdfas" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_16.*" />
+          <option name="PATTERN" value="Chapters.Chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercises_10_16" />
-        <item itemvalue="Application.Exercises_10_14" />
-        <item itemvalue="Application.Exercises_10_13" />
-        <item itemvalue="Application.Exercises_10_12" />
-        <item itemvalue="Application.Exercises_10_11" />
+        <item itemvalue="Application.Exercises_10_20" />
+        <item itemvalue="Application.Exercises_10_19" />
+        <item itemvalue="Application.Exercises_10_03" />
+        <item itemvalue="Application.sdfas" />
+        <item itemvalue="Application.Exercises_10_18" />
       </list>
     </recent_temporary>
   </component>
