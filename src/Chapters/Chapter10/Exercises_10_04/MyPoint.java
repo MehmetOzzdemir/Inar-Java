@@ -1,6 +1,6 @@
 package Chapters.Chapter10.Exercises_10_04;
 
-public class MyPoint {
+public class    MyPoint {
     private double x ;
     private double y;
 
