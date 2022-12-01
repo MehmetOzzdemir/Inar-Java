@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab05b468-7bff-4caf-8173-85b82e99eafa" name="Changes" comment="">
+    <list default="true" id="5283e1ac-3762-44f7-88d2-72e7edc1c857" name="Changes" comment="7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_25/Exercises_10_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_25/Exercises_10_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapters/Chapter11/Exercises_11_01/Exercises_11_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapters/Chapter11/Exercises_11_01/Exercises_11_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Hxwa48bgeRwulKQU9gpbMVuQPF" />
+  <component name="ProjectId" id="2HvMEU77ExlF9Fez0t2Sov3qbRO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -33,16 +35,20 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mehmetozdemir/Documents/workspace/Inar-Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercises_10_24">
-    <configuration name="Exercises_10_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_20.Exercises_10_20" />
+  <component name="RunManager" selected="Application.Exercises_11_02">
+    <configuration name="Exercises_10_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_25.Exercises_10_25" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_20.*" />
+          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises_10_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_21.Exercises_10_21" />
+    <configuration name="Exercises_11_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.Exercises_11_01.Exercises_11_01" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_21.*" />
+          <option name="PATTERN" value="Chapters.Chapter11.Exercises_11_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises_10_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_22.Exercises_10_22" />
+    <configuration name="Exercises_11_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter11.Exercises_11_02.Exercises_11_02" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_22.*" />
+          <option name="PATTERN" value="Chapters.Chapter11.Exercises_11_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises_10_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_23.Exercises_10_23" />
+    <configuration name="Exercises_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter01.Exercises_1_1" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_23.*" />
+          <option name="PATTERN" value="Chapters.Chapter01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises_10_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapters.Chapter10.Exercises_10_24.Exercises_10_24" />
+    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weeks.Weeks_10.TwoDimensionalArray" />
       <module name="Inar-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapters.Chapter10.Exercises_10_24.*" />
+          <option name="PATTERN" value="Weeks.Weeks_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,23 +110,31 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercises_10_24" />
-        <item itemvalue="Application.Exercises_10_23" />
-        <item itemvalue="Application.Exercises_10_22" />
-        <item itemvalue="Application.Exercises_10_21" />
-        <item itemvalue="Application.Exercises_10_20" />
+        <item itemvalue="Application.Exercises_11_02" />
+        <item itemvalue="Application.Exercises_11_01" />
+        <item itemvalue="Application.Exercises_10_25" />
+        <item itemvalue="Application.Exercises_1_1" />
+        <item itemvalue="Application.TwoDimensionalArray" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab05b468-7bff-4caf-8173-85b82e99eafa" name="Changes" comment="" />
-      <created>1669237215675</created>
+      <changelist id="5283e1ac-3762-44f7-88d2-72e7edc1c857" name="Changes" comment="" />
+      <created>1669160993462</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669237215675</updated>
+      <updated>1669160993462</updated>
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <created>1669197707601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669197707601</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,131 +142,56 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="cf484e48-79e2-4815-9e56-4355ebd2fceb">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/mehmetozdemir/Documents/workspace/Inar-Java/src/Chapters/Chapter11/Exercises_11_02" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="cf484e48-79e2-4815-9e56-4355ebd2fceb" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_10/Queue.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_16/Exercises_10_16.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_16/Exercises_10_16.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_16/Exercises_10_16.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_16/Exercises_10_16.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_16/Exercises_10_16.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>62</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>65</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Chapters/Chapter10/Exercises_10_22/MyString1.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
 </project>
